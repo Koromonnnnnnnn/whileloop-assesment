@@ -17,7 +17,7 @@ int main()
         case 1:
             if (val == "spoon")
             {
-                cout << "okay" << endl;
+                cout << "okay fine ill leave you alone bye" << endl;
                 loop = false;
             }
             else if (val != "spoon")
